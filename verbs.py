@@ -90,6 +90,12 @@ verbs = {
         "futur simple": ["j'aimerai", "tu aimeras", "il aimera", "nous aimerons", "vous aimerez", "ils aimeront"],
         "passe compose": ["j'ai aime", "tu as aime", "il a aime", "nous avons aime", "vous avez aime", "ils ont aime"],
         "imparfait": ["j'aimais", "tu aimais", "il aimait", "nous aimions", "vous aimiez", "ils aimaient"]
+    },
+    "finir": {
+        "present": ["je finis", "tu finis", "il finit", "nous finissons", "vous finissez", "ils finissent"],
+        "futur simple": ["je finirai", "tu finiras", "il finira", "nous finirons", "vous finirez", "ils finiront"],
+        "passe compose": ["j'ai fini", "tu as fini", "il a fini", "nous avons fini", "vous avez fini", "ils ont fini"],
+        "imparfait": ["je finissais", "tu finissais", "il finissait", "nous finissions", "vous finissiez", "ils finissaient"]
     }
 }
 
