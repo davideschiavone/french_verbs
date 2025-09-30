@@ -96,6 +96,12 @@ verbs = {
         "futur simple": ["je finirai", "tu finiras", "il finira", "nous finirons", "vous finirez", "ils finiront"],
         "passe compose": ["j'ai fini", "tu as fini", "il a fini", "nous avons fini", "vous avez fini", "ils ont fini"],
         "imparfait": ["je finissais", "tu finissais", "il finissait", "nous finissions", "vous finissiez", "ils finissaient"]
+    },
+    "doire": {
+        "present": ["je dois", "tu dois", "il doit", "nous devons", "vous devez", "ils doivent"],
+        "futur simple": ["je devrai", "tu devras", "il devra", "nous devrons", "vous devrez", "ils devront"],
+        "passe compose": ["j'ai du", "tu as du", "il a du", "nous avons du", "vous avez du", "ils ont du"],
+        "imparfait": ["je devais", "tu devais", "il devait", "nous devions", "vous deviez", "ils devaient"]
     }
 }
 
