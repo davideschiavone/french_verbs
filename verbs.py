@@ -5,108 +5,125 @@ verbs = {
         "present": ["je suis", "tu es", "il est", "nous sommes", "vous etes", "ils sont"],
         "futur simple": ["je serai", "tu seras", "il sera", "nous serons", "vous serez", "ils seront"],
         "passe compose": ["j'ai ete", "tu as ete", "il a ete", "nous avons ete", "vous avez ete", "ils ont ete"],
-        "imparfait": ["j'etais", "tu etais", "il etait", "nous etions", "vous etiez", "ils etaient"]
+        "imparfait": ["j'etais", "tu etais", "il etait", "nous etions", "vous etiez", "ils etaient"],
+        "conditionnel": ["je serais", "tu serais", "il serait", "nous serions", "vous seriez", "ils seraient"]
     },
     "avoir": {
         "present": ["j'ai", "tu as", "il a", "nous avons", "vous avez", "ils ont"],
         "futur simple": ["j'aurai", "tu auras", "il aura", "nous aurons", "vous aurez", "ils auront"],
         "passe compose": ["j'ai eu", "tu as eu", "il a eu", "nous avons eu", "vous avez eu", "ils ont eu"],
-        "imparfait": ["j'avais", "tu avais", "il avait", "nous avions", "vous aviez", "ils avaient"]
+        "imparfait": ["j'avais", "tu avais", "il avait", "nous avions", "vous aviez", "ils avaient"],
+        "conditionnel": ["j'aurais", "tu aurais", "il aurait", "nous aurions", "vous auriez", "ils auraient"]
     },
     "aller": {
         "present": ["je vais", "tu vas", "il va", "nous allons", "vous allez", "ils vont"],
         "futur simple": ["j'irai", "tu iras", "il ira", "nous irons", "vous irez", "ils iront"],
         "passe compose": ["je suis alle", "tu es alle", "il est alle", "nous sommes alles", "vous etes alles", "ils sont alles"],
-        "imparfait": ["j'allais", "tu allais", "il allait", "nous allions", "vous alliez", "ils allaient"]
+        "imparfait": ["j'allais", "tu allais", "il allait", "nous allions", "vous alliez", "ils allaient"],
+        "conditionnel": ["j'irais", "tu irais", "il irait", "nous irions", "vous iriez", "ils iraient"]
     },
     "venir": {
         "present": ["je viens", "tu viens", "il vient", "nous venons", "vous venez", "ils viennent"],
         "futur simple": ["je viendrai", "tu viendras", "il viendra", "nous viendrons", "vous viendrez", "ils viendront"],
         "passe compose": ["je suis venu", "tu es venu", "il est venu", "nous sommes venus", "vous etes venus", "ils sont venus"],
-        "imparfait": ["je venais", "tu venais", "il venait", "nous venions", "vous veniez", "ils venaient"]
+        "imparfait": ["je venais", "tu venais", "il venait", "nous venions", "vous veniez", "ils venaient"],
+        "conditionnel": ["je viendrais", "tu viendrais", "il viendrait", "nous viendrions", "vous viendriez", "ils viendraient"]
     },
     "prendre": {
         "present": ["je prends", "tu prends", "il prend", "nous prenons", "vous prenez", "ils prennent"],
         "futur simple": ["je prendrai", "tu prendras", "il prendra", "nous prendrons", "vous prendrez", "ils prendront"],
         "passe compose": ["j'ai pris", "tu as pris", "il a pris", "nous avons pris", "vous avez pris", "ils ont pris"],
-        "imparfait": ["je prenais", "tu prenais", "il prenait", "nous prenions", "vous preniez", "ils prenaient"]
+        "imparfait": ["je prenais", "tu prenais", "il prenait", "nous prenions", "vous preniez", "ils prenaient"],
+        "conditionnel": ["je prendrais", "tu prendrais", "il prendrait", "nous prendrions", "vous prendriez", "ils prendraient"]
     },
     "partir": {
         "present": ["je pars", "tu pars", "il part", "nous partons", "vous partez", "ils partent"],
         "futur simple": ["je partirai", "tu partiras", "il partira", "nous partirons", "vous partirez", "ils partiront"],
         "passe compose": ["je suis parti", "tu es parti", "il est parti", "nous sommes partis", "vous etes partis", "ils sont partis"],
-        "imparfait": ["je partais", "tu partais", "il partait", "nous partions", "vous partiez", "ils partaient"]
+        "imparfait": ["je partais", "tu partais", "il partait", "nous partions", "vous partiez", "ils partaient"],
+        "conditionnel": ["je partirais", "tu partirais", "il partirait", "nous partirions", "vous partiriez", "ils partiraient"]
     },
     "voir": {
         "present": ["je vois", "tu vois", "il voit", "nous voyons", "vous voyez", "ils voient"],
         "futur simple": ["je verrai", "tu verras", "il verra", "nous verrons", "vous verrez", "ils verront"],
         "passe compose": ["j'ai vu", "tu as vu", "il a vu", "nous avons vu", "vous avez vu", "ils ont vu"],
-        "imparfait": ["je voyais", "tu voyais", "il voyait", "nous voyions", "vous voyiez", "ils voyaient"]
+        "imparfait": ["je voyais", "tu voyais", "il voyait", "nous voyions", "vous voyiez", "ils voyaient"],
+        "conditionnel": ["je verrais", "tu verrais", "il verrait", "nous verrions", "vous verriez", "ils verraient"]
     },
     "faire": {
         "present": ["je fais", "tu fais", "il fait", "nous faisons", "vous faites", "ils font"],
         "futur simple": ["je ferai", "tu feras", "il fera", "nous ferons", "vous ferez", "ils feront"],
         "passe compose": ["j'ai fait", "tu as fait", "il a fait", "nous avons fait", "vous avez fait", "ils ont fait"],
-        "imparfait": ["je faisais", "tu faisais", "il faisait", "nous faisions", "vous faisiez", "ils faisaient"]
+        "imparfait": ["je faisais", "tu faisais", "il faisait", "nous faisions", "vous faisiez", "ils faisaient"],
+        "conditionnel": ["je ferais", "tu ferais", "il ferait", "nous ferions", "vous feriez", "ils feraient"]
     },
     "dire": {
         "present": ["je dis", "tu dis", "il dit", "nous disons", "vous dites", "ils disent"],
         "futur simple": ["je dirai", "tu diras", "il dira", "nous dirons", "vous direz", "ils diront"],
         "passe compose": ["j'ai dit", "tu as dit", "il a dit", "nous avons dit", "vous avez dit", "ils ont dit"],
-        "imparfait": ["je disais", "tu disais", "il disait", "nous disions", "vous disiez", "ils disaient"]
+        "imparfait": ["je disais", "tu disais", "il disait", "nous disions", "vous disiez", "ils disaient"],
+        "conditionnel": ["je dirais", "tu dirais", "il dirait", "nous dirions", "vous diriez", "ils diraient"]
     },
     "pouvoir": {
         "present": ["je peux", "tu peux", "il peut", "nous pouvons", "vous pouvez", "ils peuvent"],
         "futur simple": ["je pourrai", "tu pourras", "il pourra", "nous pourrons", "vous pourrez", "ils pourront"],
         "passe compose": ["j'ai pu", "tu as pu", "il a pu", "nous avons pu", "vous avez pu", "ils ont pu"],
-        "imparfait": ["je pouvais", "tu pouvais", "il pouvait", "nous pouvions", "vous pouviez", "ils pouvaient"]
+        "imparfait": ["je pouvais", "tu pouvais", "il pouvait", "nous pouvions", "vous pouviez", "ils pouvaient"],
+        "conditionnel": ["je pourrais", "tu pourrais", "il pourrait", "nous pourrions", "vous pourriez", "ils pourraient"]
     },
     "vouloir": {
         "present": ["je veux", "tu veux", "il veut", "nous voulons", "vous voulez", "ils veulent"],
         "futur simple": ["je voudrai", "tu voudras", "il voudra", "nous voudrons", "vous voudrez", "ils voudront"],
         "passe compose": ["j'ai voulu", "tu as voulu", "il a voulu", "nous avons voulu", "vous avez voulu", "ils ont voulu"],
-        "imparfait": ["je voulais", "tu voulais", "il voulait", "nous voulions", "vous vouliez", "ils voulaient"]
+        "imparfait": ["je voulais", "tu voulais", "il voulait", "nous voulions", "vous vouliez", "ils voulaient"],
+        "conditionnel": ["je voudrais", "tu voudrais", "il voudrait", "nous voudrions", "vous voudriez", "ils voudraient"]
     },
     "savoir": {
         "present": ["je sais", "tu sais", "il sait", "nous savons", "vous savez", "ils savent"],
         "futur simple": ["je saurai", "tu sauras", "il saura", "nous saurons", "vous saurez", "ils sauront"],
         "passe compose": ["j'ai su", "tu as su", "il a su", "nous avons su", "vous avez su", "ils ont su"],
-        "imparfait": ["je savais", "tu savais", "il savait", "nous savions", "vous saviez", "ils savaient"]
+        "imparfait": ["je savais", "tu savais", "il savait", "nous savions", "vous saviez", "ils savaient"],
+        "conditionnel": ["je saurais", "tu saurais", "il saurait", "nous saurions", "vous sauriez", "ils sauraient"]
     },
     "rentrer": {
         "present": ["je rentre", "tu rentres", "il rentre", "nous rentrons", "vous rentrez", "ils rentrent"],
         "futur simple": ["je rentrerai", "tu rentreras", "il rentrera", "nous rentrerons", "vous rentrerez", "ils rentreront"],
         "passe compose": ["je suis rentre", "tu es rentre", "il est rentre", "nous sommes rentres", "vous etes rentres", "ils sont rentres"],
-        "imparfait": ["je rentrais", "tu rentrais", "il rentrait", "nous rentrions", "vous rentriez", "ils rentraient"]
+        "imparfait": ["je rentrais", "tu rentrais", "il rentrait", "nous rentrions", "vous rentriez", "ils rentraient"],
+        "conditionnel": ["je rentrerais", "tu rentrerais", "il rentrerait", "nous rentrerions", "vous rentreriez", "ils rentreraient"]
     },
     "manger": {
         "present": ["je mange", "tu manges", "il mange", "nous mangeons", "vous mangez", "ils mangent"],
         "futur simple": ["je mangerai", "tu mangeras", "il mangera", "nous mangerons", "vous mangerez", "ils mangeront"],
         "passe compose": ["j'ai mange", "tu as mange", "il a mange", "nous avons mange", "vous avez mange", "ils ont mange"],
-        "imparfait": ["je mangeais", "tu mangeais", "il mangeait", "nous mangions", "vous mangiez", "ils mangeaient"]
+        "imparfait": ["je mangeais", "tu mangeais", "il mangeait", "nous mangions", "vous mangiez", "ils mangeaient"],
+        "conditionnel": ["je mangerais", "tu mangerais", "il mangerait", "nous mangerions", "vous mangeriez", "ils mangeraient"]
     },
     "aimer": {
         "present": ["j'aime", "tu aimes", "il aime", "nous aimons", "vous aimez", "ils aiment"],
         "futur simple": ["j'aimerai", "tu aimeras", "il aimera", "nous aimerons", "vous aimerez", "ils aimeront"],
         "passe compose": ["j'ai aime", "tu as aime", "il a aime", "nous avons aime", "vous avez aime", "ils ont aime"],
-        "imparfait": ["j'aimais", "tu aimais", "il aimait", "nous aimions", "vous aimiez", "ils aimaient"]
+        "imparfait": ["j'aimais", "tu aimais", "il aimait", "nous aimions", "vous aimiez", "ils aimaient"],
+        "conditionnel": ["j'aimerais", "tu aimerais", "il aimerait", "nous aimerions", "vous aimeriez", "ils aimeraient"]
     },
     "finir": {
         "present": ["je finis", "tu finis", "il finit", "nous finissons", "vous finissez", "ils finissent"],
         "futur simple": ["je finirai", "tu finiras", "il finira", "nous finirons", "vous finirez", "ils finiront"],
         "passe compose": ["j'ai fini", "tu as fini", "il a fini", "nous avons fini", "vous avez fini", "ils ont fini"],
-        "imparfait": ["je finissais", "tu finissais", "il finissait", "nous finissions", "vous finissiez", "ils finissaient"]
+        "imparfait": ["je finissais", "tu finissais", "il finissait", "nous finissions", "vous finissiez", "ils finissaient"],
+        "conditionnel": ["je finirais", "tu finirais", "il finirait", "nous finirions", "vous finiriez", "ils finiraient"]
     },
-    "doire": {
+    "devoir": {
         "present": ["je dois", "tu dois", "il doit", "nous devons", "vous devez", "ils doivent"],
         "futur simple": ["je devrai", "tu devras", "il devra", "nous devrons", "vous devrez", "ils devront"],
         "passe compose": ["j'ai du", "tu as du", "il a du", "nous avons du", "vous avez du", "ils ont du"],
-        "imparfait": ["je devais", "tu devais", "il devait", "nous devions", "vous deviez", "ils devaient"]
+        "imparfait": ["je devais", "tu devais", "il devait", "nous devions", "vous deviez", "ils devaient"],
+        "conditionnel": ["je devrais", "tu devrais", "il devrait", "nous devrions", "vous devriez", "ils devraient"]
     }
 }
 
 persons = ['je', 'tu', 'il', 'nous', 'vous', 'ils']
-tenses = ['present', 'futur simple', 'passe compose', 'imparfait']
+tenses = ['present', 'futur simple', 'passe compose', 'imparfait', 'conditionnel']
 
 def generate_question_deck():
     deck = []
