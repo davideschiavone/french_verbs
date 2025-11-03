@@ -119,6 +119,76 @@ verbs = {
         "passe compose": ["j'ai du", "tu as du", "il a du", "nous avons du", "vous avez du", "ils ont du"],
         "imparfait": ["je devais", "tu devais", "il devait", "nous devions", "vous deviez", "ils devaient"],
         "conditionnel": ["je devrais", "tu devrais", "il devrait", "nous devrions", "vous devriez", "ils devraient"]
+    },
+    "regarder": {
+        "present": ["je regarde", "tu regardes", "il regarde", "nous regardons", "vous regardez", "ils regardent"],
+        "futur simple": ["je regarderai", "tu regarderas", "il regardera", "nous regarderons", "vous regarderez", "ils regarderont"],
+        "passe compose": ["j'ai regarde", "tu as regarde", "il a regarde", "nous avons regarde", "vous avez regarde", "ils ont regarde"],
+        "imparfait": ["je regardais", "tu regardais", "il regardait", "nous regardions", "vous regardiez", "ils regardaient"],
+        "conditionnel": ["je regarderais", "tu regarderais", "il regarderait", "nous regarderions", "vous regarderiez", "ils regarderaient"]
+    },
+    "ecouter": {
+        "present": ["j'ecoute", "tu ecoutes", "il ecoute", "nous ecoutons", "vous ecoutez", "ils ecoutent"],
+        "futur simple": ["j'ecouterai", "tu ecouteras", "il ecoutera", "nous ecouterons", "vous ecouterez", "ils ecouteront"],
+        "passe compose": ["j'ai ecoute", "tu as ecoute", "il a ecoute", "nous avons ecoute", "vous avez ecoute", "ils ont ecoute"],
+        "imparfait": ["j'ecoutais", "tu ecoutais", "il ecoutait", "nous ecoutions", "vous ecoutiez", "ils ecoutaient"],
+        "conditionnel": ["j'ecouterais", "tu ecouterais", "il ecouterait", "nous ecouterions", "vous ecouteriez", "ils ecouteraient"]
+    },
+    "donner": {
+        "present": ["je donne", "tu donnes", "il donne", "nous donnons", "vous donnez", "ils donnent"],
+        "futur simple": ["je donnerai", "tu donneras", "il donnera", "nous donnerons", "vous donnerez", "ils donneront"],
+        "passe compose": ["j'ai donne", "tu as donne", "il a donne", "nous avons donne", "vous avez donne", "ils ont donne"],
+        "imparfait": ["je donnais", "tu donnais", "il donnait", "nous donnions", "vous donniez", "ils donnaient"],
+        "conditionnel": ["je donnerais", "tu donnerais", "il donnerait", "nous donnerions", "vous donneriez", "ils donneraient"]
+    },
+    "chercher": {
+        "present": ["je cherche", "tu cherches", "il cherche", "nous cherchons", "vous cherchez", "ils cherchent"],
+        "futur simple": ["je chercherai", "tu chercheras", "il cherchera", "nous chercherons", "vous chercherez", "ils chercheront"],
+        "passe compose": ["j'ai cherche", "tu as cherche", "il a cherche", "nous avons cherche", "vous avez cherche", "ils ont cherche"],
+        "imparfait": ["je cherchais", "tu cherchais", "il cherchait", "nous cherchions", "vous cherchiez", "ils cherchaient"],
+        "conditionnel": ["je chercherais", "tu chercherais", "il chercherait", "nous chercherions", "vous chercheriez", "ils chercheraient"]
+    },
+    "trouver": {
+        "present": ["je trouve", "tu trouves", "il trouve", "nous trouvons", "vous trouvez", "ils trouvent"],
+        "futur simple": ["je trouverai", "tu trouveras", "il trouvera", "nous trouverons", "vous trouverez", "ils trouveront"],
+        "passe compose": ["j'ai trouve", "tu as trouve", "il a trouve", "nous avons trouve", "vous avez trouve", "ils ont trouve"],
+        "imparfait": ["je trouvais", "tu trouvais", "il trouvait", "nous trouvions", "vous trouviez", "ils trouvaient"],
+        "conditionnel": ["je trouverais", "tu trouverais", "il trouverait", "nous trouverions", "vous trouveriez", "ils trouveraient"]
+    },
+    "lire": {
+        "present": ["je lis", "tu lis", "il lit", "nous lisons", "vous lisez", "ils lisent"],
+        "futur simple": ["je lirai", "tu liras", "il lira", "nous lirons", "vous lirez", "ils liront"],
+        "passe compose": ["j'ai lu", "tu as lu", "il a lu", "nous avons lu", "vous avez lu", "ils ont lu"],
+        "imparfait": ["je lisais", "tu lisais", "il lisait", "nous lisions", "vous lisiez", "ils lisaient"],
+        "conditionnel": ["je lirais", "tu lirais", "il lirait", "nous lirions", "vous liriez", "ils liraient"]
+    },
+    "ecrire": {
+        "present": ["j'ecris", "tu ecris", "il ecrit", "nous ecrivons", "vous ecrivez", "ils ecrivent"],
+        "futur simple": ["j'ecrirai", "tu ecriras", "il ecrira", "nous ecrirons", "vous ecrirez", "ils ecriront"],
+        "passe compose": ["j'ai ecrit", "tu as ecrit", "il a ecrit", "nous avons ecrit", "vous avez ecrit", "ils ont ecrit"],
+        "imparfait": ["j'ecrivais", "tu ecrivais", "il ecrivait", "nous ecrivions", "vous ecriviez", "ils ecrivaient"],
+        "conditionnel": ["j'ecrirais", "tu ecrirais", "il ecrirait", "nous ecririons", "vous ecririez", "ils ecriraient"]
+    },
+    "comprendre": {
+        "present": ["je comprends", "tu comprends", "il comprend", "nous comprenons", "vous comprenez", "ils comprennent"],
+        "futur simple": ["je comprendrai", "tu comprendras", "il comprendra", "nous comprendrons", "vous comprendrez", "ils comprendront"],
+        "passe compose": ["j'ai compris", "tu as compris", "il a compris", "nous avons compris", "vous avez compris", "ils ont compris"],
+        "imparfait": ["je comprenais", "tu comprenais", "il comprenait", "nous comprenions", "vous compreniez", "ils comprenaient"],
+        "conditionnel": ["je comprendrais", "tu comprendrais", "il comprendrait", "nous comprendrions", "vous comprendriez", "ils comprendraient"]
+    },
+    "croire": {
+        "present": ["je crois", "tu crois", "il croit", "nous croyons", "vous croyez", "ils croient"],
+        "futur simple": ["je croirai", "tu croiras", "il croira", "nous croirons", "vous croirez", "ils croiront"],
+        "passe compose": ["j'ai cru", "tu as cru", "il a cru", "nous avons cru", "vous avez cru", "ils ont cru"],
+        "imparfait": ["je croyais", "tu croyais", "il croyait", "nous croyions", "vous croyiez", "ils croyaient"],
+        "conditionnel": ["je croirais", "tu croirais", "il croirait", "nous croirions", "vous croiriez", "ils croiraient"]
+    },
+    "mettre": {
+        "present": ["je mets", "tu mets", "il met", "nous mettons", "vous mettez", "ils mettent"],
+        "futur simple": ["je mettrai", "tu mettras", "il mettra", "nous mettrons", "vous mettrez", "ils mettront"],
+        "passe compose": ["j'ai mis", "tu as mis", "il a mis", "nous avons mis", "vous avez mis", "ils ont mis"],
+        "imparfait": ["je mettais", "tu mettais", "il mettait", "nous mettions", "vous mettiez", "ils mettaient"],
+        "conditionnel": ["je mettrais", "tu mettrais", "il mettrait", "nous mettrions", "vous mettriez", "ils mettraient"]
     }
 }
 
